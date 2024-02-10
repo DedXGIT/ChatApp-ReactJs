@@ -4,10 +4,14 @@
 ## Login Screen
 ![image](https://github.com/DedXGIT/ChatApp-ReactJs/assets/70035771/368570bc-9807-4641-b6dd-aa8c26428cea)
  
+## Chat Feed
+
+![image](https://github.com/DedXGIT/ChatApp-ReactJs/assets/70035771/f756b9ab-3bce-494e-af35-c60691cceffe)
+
 ## Test Credentials 
 This web app is live over https://chat-app-shivalik.netlify.app/ 
-Use Username : `Test User` , `Guest`
-Use Password : `12345` , `123123`
+Use Username : `Test User` , `Guest` \
+Use Password : `12345` , `123123` \
 for testing
 
 
