@@ -9,7 +9,7 @@
 ![image](https://github.com/DedXGIT/ChatApp-ReactJs/assets/70035771/f756b9ab-3bce-494e-af35-c60691cceffe)
 
 ## Test Credentials 
-This web app is live over https://chat-app-shivalik.netlify.app/ 
+This web app is live over https://chat-app-shivalik.netlify.app/ \
 Use Username : `Test User` , `Guest` \
 Use Password : `12345` , `123123` \
 for testing
